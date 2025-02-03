@@ -119,3 +119,14 @@ The scripts used to produce the tables from the appendix are located in `code/hy
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+FullCert has been partially developed with the support of European Union’s [ELSA – European Lighthouse on Secure and Safe AI](https://elsa-ai.eu), Horizon Europe, grant agreement No. 101070617, the German Federal Ministry of Education and Research (BMBF) under the grant [AIgenCY](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/aigency) (16KIS2012), Medizininformatik-Plattform [“Privatsphären-schützende Analytik in der Medizin” (PrivateAIM)](https://privateaim.de/), grant number 01ZZ2316G, and the ERC under the European Union’s Horizon 2020 research and innovation programme ([FUN2MODEL](http://fun2model.org/), grant agreement number 834115).
+
+<img src="assets/elsa.jpg" alt="ELSA" style="width:70px;"/> &nbsp;&nbsp; 
+<img src="assets/privateaim.png" alt="PrivateAIM" style="width:70px;"/> &nbsp;&nbsp; 
+<img src="assets/fun2model.png" alt="FUN2MODEL" style="width:160px;"/> &nbsp;&nbsp; 
+<img src="assets/eu_funded.png" alt="EU" style="width:240px;"/> &nbsp;&nbsp; 
+<img src="assets/erc.png" alt="ERC" style="width:70px;"/> &nbsp;&nbsp; 
+<img src="assets/bmbf.png" alt="BMBF" style="width:120px;"/>
